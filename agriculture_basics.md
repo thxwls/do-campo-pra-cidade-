@@ -16,6 +16,7 @@ A agricultura é a prática de cultivar o solo, plantar sementes, colher cultura
 
 ## Recursos Adicionais
 
-- [Incluir links para artigos, vídeos ou outros recursos educativos relevantes]
+#sites que falam sobre 
+
 
 Este documento serve como uma introdução abrangente aos aspectos básicos da agricultura, fornecendo um ponto de partida para entender melhor a conexão entre agricultura e vida urbana.
