@@ -1,7 +1,7 @@
 # Agricultura Urbana e Hortas Comunitárias
 
 Este site explora a prática da agricultura urbana e o crescimento de hortas comunitárias como formas de aumentar a sustentabilidade alimentar e promover a conexão entre cidade e campo.
-c
+
 ## Agricultura Urbana
 
 A agricultura urbana refere-se ao cultivo de alimentos e a criação de animais em áreas urbanas e periurbanas.
