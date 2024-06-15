@@ -1,7 +1,7 @@
 # Agricultura Urbana e Hortas Comunitárias
 
-Este documento explora a prática da agricultura urbana e o crescimento de hortas comunitárias como formas de aumentar a sustentabilidade alimentar e promover a conexão entre cidade e campo.
-
+Este site explora a prática da agricultura urbana e o crescimento de hortas comunitárias como formas de aumentar a sustentabilidade alimentar e promover a conexão entre cidade e campo.
+c
 ## Agricultura Urbana
 
 A agricultura urbana refere-se ao cultivo de alimentos e a criação de animais em áreas urbanas e periurbanas.
@@ -18,11 +18,6 @@ As hortas comunitárias são espaços cultivados coletivamente por membros da co
 
 ### Exemplos de Hortas Comunitárias
 
-- **Localização**: Descrever exemplos locais ou internacionais de sucesso.
-- **Impacto Social**: Como as hortas comunitárias beneficiam as comunidades locais.
-
-## Recursos Adicionais
-
-- [Incluir links para artigos, vídeos ou outros recursos educativos sobre agricultura urbana]
-
-Este documento fornece uma visão detalhada das práticas de agricultura urbana e hortas comunitárias, destacando seu papel na integração entre vida urbana e agrícola.
+- **Localização**: 
+Conjunto São Lourenço (Escola M. Eugênio Brugin)	Rua Jorge Ribeiro 163
+- **Impacto Social**: mobilizam o esforço coletivo em prol de uma alimentação mais saudável tendo mais proatividade dos cidadãos que moram no bairro.
