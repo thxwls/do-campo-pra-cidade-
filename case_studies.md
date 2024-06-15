@@ -18,4 +18,4 @@ Este site apresenta estudos de caso de sucesso que exemplificam como a integraç
 - **Objetivos**: O objetivo principal é sensibilizar e educar os alunos sobre questões ambientais específicas de suas comunidades, como a conservação da água, gestão de resíduos e práticas agrícolas sustentáveis. Além disso, o projeto visa incentivar o orgulho local e cultural, conectando as crianças com suas raízes agrícolas e as oportunidades que existem na interface entre o campo e a cidade.
   
 - **Resultados**: Após a implementação do programa, notou-se um aumento no conhecimento ambiental entre os alunos, que passaram a adotar práticas mais sustentáveis ​​em suas vidas diárias. Além disso, houve um aumento na conscientização da importância da preservação dos recursos naturais locais e da biodiversidade. As lições aprendidas incluem a adaptação contínua do currículo para atender às necessidades específicas de cada comunidade rural, bem como a colaboração eficaz com educadores locais e líderes comunitários para garantir a sustentabilidade a longo prazo do programa.
-## Recursos Adicionais
+
