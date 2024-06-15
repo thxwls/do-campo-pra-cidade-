@@ -1,6 +1,6 @@
 # Fundamentos da Agricultura
 
-Este documento aborda os princípios fundamentais da agricultura, proporcionando uma base para entender as práticas agrícolas e seu impacto na sociedade.
+Este site/documento aborda os princípios fundamentais da agricultura, proporcionando uma base para entender as práticas agrícolas e seu impacto na sociedade.
 
 ## Introdução à Agricultura
 
@@ -15,8 +15,7 @@ A agricultura é a prática de cultivar o solo, plantar sementes, colher cultura
 5. **Técnicas Agrícolas**: Diferentes métodos de cultivo e colheita.
 
 ## Recursos Adicionais
-
-#sites que falam sobre 
-
-
-Este documento serve como uma introdução abrangente aos aspectos básicos da agricultura, fornecendo um ponto de partida para entender melhor a conexão entre agricultura e vida urbana.
+Sites que falam sobre :
+https://agro.estadao.com.br/agrishow-2024/faesp-prepara-plano-para-incentivar-agricultura-urbana
+## Livro Sobre:
+https://mds.gov.br/webarquivos/MDS/2_Acoes_e_Programas/Acesso_a_Alimentos_e_a_Agua/Programa_Nacional_de_Agricultura_Urbana_e_Peri_Urbana/Arquivos/Biblioteca-digital-de-agricultura-urbana-guia-bibliotec%C3%A1rio.pdf
